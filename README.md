@@ -2,8 +2,8 @@
 
 Here you can find the manual and the corespondig images and files for the use of the Optitrack MOCAP studios on the HKU.
 
-Manual as [PDF](doc/HKU MoCap Manuals v1.0.pdf)
-Manual as [docx](doc/HKU MoCap Manuals v1.0.docx)
+- Manual as [PDF](doc/HKU%20MoCap%20Manuals%20v1.0.pdf)
+- Manual as [docx](doc/HKU%20MoCap%20Manuals%20v1.0.docx)
 
 ## CONTENT
 
